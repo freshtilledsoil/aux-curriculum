@@ -4,27 +4,27 @@ This repos contains the current curriculum for AUX, our Apprenticeship in User E
 
 ## UX major challenges
 
-1. [User research & interviewing](1-user-research-and-interviewing.md)
-2. [Personas, experience mapping & behavioral design](2-personas-experience-mapping-and-behavioral-design.md)
-3. [Prototyping & usability testing](3-prototyping-and-usability-testing.md)
+1. [User research & interviewing](ux-1-user-research-and-interviewing.md)
+2. [Personas, experience mapping & behavioral design](ux-2-personas-experience-mapping-and-behavioral-design.md)
+3. [Prototyping & usability testing](ux-3-prototyping-and-usability-testing.md)
 
 ## UI design minor challenges
 
-1. [Accessibility & universal design](1-accessibility-and-universal-design.md)
-2. [Asset optimization & performance](2-asset-optimization-and-performance.md)
-3. [Design systems](3-design-systems.md)
+1. [Accessibility & universal design](ui-1-accessibility-and-universal-design.md)
+2. [Asset optimization & performance](ui-2-asset-optimization-and-performance.md)
+3. [Design systems](ui-3-design-systems.md)
 
 ## Front-end dev minor challenges
 
-1. [Progressive enhancement & accessibility](1-progressive-enhancement-and-accessibility.md)
-2. [Performance budgeting](2-performance-budgeting.md)
-3. [Front-end systems architecture](3-front-end-systems-architecture.md)
+1. [Progressive enhancement & accessibility](fed-1-progressive-enhancement-and-accessibility.md)
+2. [Performance budgeting](fed-2-performance-budgeting.md)
+3. [Front-end systems architecture](fed-3-front-end-systems-architecture.md)
 
 ## Strategy minor challenges
 
-1. [Business model/Lean/Value proposition canvas](1-business-model-lean-value-proposition-canvas.md)
-2. [Product road-mapping](2-product-road-mapping.md)
-3. [Concept architecture & value ecosystem mapping](3-concept-architecture-and-value-ecosystem-mapping.md)
+1. [Business model/Lean/Value proposition canvas](strat-1-business-model-lean-value-proposition-canvas.md)
+2. [Product road-mapping](strat-2-product-road-mapping.md)
+3. [Concept architecture & value ecosystem mapping](strat-3-concept-architecture-and-value-ecosystem-mapping.md)
 
 ## Workshops & mini-challenges
 
