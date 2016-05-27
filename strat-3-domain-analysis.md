@@ -36,7 +36,7 @@ Take a look at the current state of the mobile payments ecosystem. Map out the m
 
 * Your final presentation and the visualizations it presents are the key deliverables.
 
-## Timeline:
+## Timeline
 
 You’ll have just under two weeks to complete your work. The challenge starts on a Monday and is due for evaluation by Geordie Kaytes, Evan Ryan, C. Todd Lombardo or Steve Hickey the following Thursday. We highly recommend checking in several times with members of the strategy team along the way. There will not be any project extensions, you are responsible for delivering on time. Part of delivering on time is making sure you’re on the correct path at several intervals along the way.
 

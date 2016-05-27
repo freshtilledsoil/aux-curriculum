@@ -30,11 +30,11 @@ Understanding how to design for all people is essential for any designer. Everyo
 
 Design a registration form for SuperDuper Corp’s upcoming event keeping the principles of universal and accessibly design in mind. Also provide the option to register for SuperDuper.com by creating a username and password. The form must include:
 
-**1. ****Introductory text:**
+### 1. Introductory text:
 
 "Register for our amazing event! Fill out this form to register for our event. We’ll reserve your spot and email you a confirmation."
 
-**2. Form Elements:**
+### 2. Form Elements:
 
 * First Name (Required)
 
@@ -68,7 +68,7 @@ Design a registration form for SuperDuper Corp’s upcoming event keeping the pr
 
 * Comments (Optional)
 
-**3. A button to submit the information**
+### 3. A button to submit the information
 
 Also, SuperDuper wants to make sure this form fits in with the look and feel of their site in addition to being universal and accessibly.
 
@@ -82,7 +82,7 @@ First, take a look at the Background listed above. I have provided the frame of 
 
 2. A fully designed page with the form and 1-2 additional pages illustrating different states as a user might encounter them.
 
-## Timeline:
+## Timeline
 
 You’ll have just under two weeks to complete your work. The challenge starts on a Monday and is due for evaluation by Trish Dallmeyer or Steve Hickey the following Thursday. We highly recommend checking in several times with members of the design team along the way. There will not be any project extensions, you are responsible for delivering on time. Part of delivering on time is making sure you’re on the correct path at several intervals along the way.
 

@@ -50,7 +50,7 @@ Your deliverable will be a Github repo forked from the main project repo. Push y
 
 You’ll also be responsible for a 10 minute talk sharing what you learned with your fellow apprentices, to be shown during our Friday workshop session the week after the project begins.
 
-## Timeline:
+## Timeline
 
 You’ll have just under two weeks to develop your form system and final form. The challenge starts on a Monday and is due for evaluation by Tim Wright the following Thursday. We highly recommend checking in several times with members of the front-end team along the way. There will not be any project extensions, you are responsible for delivering on time. Part of delivering on time is making sure you’re on the correct path at several intervals along the way.
 

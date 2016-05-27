@@ -60,7 +60,7 @@ Think of users that would derive value from the Structure Sensor when its functi
 
 * A framework for conducting a research process and an explanation of why you’ve made An outline of the most important things learned from the process about the skills of user research and interviewing.
 
-## Timeline:
+## Timeline
 
 3 weeks from the assignment of the project.
 

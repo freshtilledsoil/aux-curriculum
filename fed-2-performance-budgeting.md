@@ -50,7 +50,7 @@ Pick an existing website and create a list of the resources currently being util
 
 * Alongside the performance budget provide key improvements that could be taken to improve the page speed of the site you chose and the reasons why.
 
-## Timeline:
+## Timeline
 
 You’ll have just under two weeks to develop your performance budget. The challenge starts on a Monday and is due for evaluation by Tim Wright or another member of the front-end dev team the following Thursday. We highly recommend checking in several times with members of the front-end team along the way. There will not be any project extensions, you are responsible for delivering on time. Part of delivering on time is making sure you’re on the correct path at several intervals along the way.
 

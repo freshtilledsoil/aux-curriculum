@@ -50,7 +50,7 @@ For this challenge we’re going to iterate further on the result of your Bootca
 
 * Next steps for product improvement, prioritized. Give reasoning behind your choices and any feedback you’ve decided not to act on (there should definitely be some).
 
-## Timeline:
+## Timeline
 
 3 weeks from the assignment of the project.
 

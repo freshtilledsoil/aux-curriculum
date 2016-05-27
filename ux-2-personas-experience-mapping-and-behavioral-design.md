@@ -60,7 +60,7 @@ Finally, you’re going to rework the onboarding process and core functionality 
 
 * Notes on how understanding the personas, needs and behaviors of your users helped improve the app experience.
 
-## Timeline:
+## Timeline
 
 3 weeks from the assignment of the project.
 

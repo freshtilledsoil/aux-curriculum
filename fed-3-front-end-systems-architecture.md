@@ -66,7 +66,7 @@ The key takeaways of building this starter kit yourself is to familiarize you wi
 
 5. *Not required:* JavaScript file(s) that may be useful to your starter kit.
 
-## Timeline:
+## Timeline
 
 You’ll have just under two weeks to develop your system. The challenge starts on a Monday and is due for evaluation by Tim Wright or Scott O’Hara the following Thursday. We highly recommend checking in several times with members of the front-end team along the way. There will not be any project extensions, you are responsible for delivering on time. Part of delivering on time is making sure you’re on the correct path at several intervals along the way.
 
