@@ -1,8 +1,8 @@
-Accessibility & Universal Design
+# Accessibility & Universal Design
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-# Challenge introduction
+## Challenge introduction
 
 Understanding how to design for all people is essential for any designer. Everyone should be able to access information on the web in an easy and efficient way. It’s not just the right thing to do it is a potential financial liability. MIT and Harvard have recently been sued by the the National Association for the Deaf for failing to meet the requirements of the Americans with Disabilities Act by not including closed captions in the online courses. Companies that don’t take the needs of the disables seriously are facing great financial costs.
 
@@ -10,7 +10,7 @@ Understanding how to design for all people is essential for any designer. Everyo
 
 ‘**Accessible design** is a design process in which the needs of people with disabilities are specifically considered. *Accessibility* sometimes refers to the characteristic that products, services, and facilities can be independently used by people with a variety of disabilities. Accessibility as a design concern has a long history, but public awareness about accessibility increased with the passage of legislation such as the[ Americans with Disabilities Act (ADA)](http://www.ada.gov/), which mandated that public facilities and services be fully accessible to people with disabilities.’ From [Washington.edu](http://www.washington.edu/doit/what-difference-between-accessible-usable-and-universal-design)
 
-# Background research
+## Background research
 
 * [Jeffrey Zeldman: 20 Years of Web Design Community](https://vimeo.com/104641191) by Lynda.com
 
@@ -26,7 +26,7 @@ Understanding how to design for all people is essential for any designer. Everyo
 
 * [Universal Design: Process, Principles, and Applications](http://www.washington.edu/doit/universal-design-process-principles-and-applications) by University of Washington
 
-# Challenge outline
+## Challenge outline
 
 Design a registration form for SuperDuper Corp’s upcoming event keeping the principles of universal and accessibly design in mind. Also provide the option to register for SuperDuper.com by creating a username and password. The form must include:
 
@@ -70,15 +70,15 @@ Design a registration form for SuperDuper Corp’s upcoming event keeping the pr
 
 **3. A button to submit the information**
 
-Also, SuperDuper wants to make sure this form fits in with the look and feel of their site in addition to being universal and accessibly. 
+Also, SuperDuper wants to make sure this form fits in with the look and feel of their site in addition to being universal and accessibly.
 
 ## Recommended process
 
-First, take a look at the Background listed above. I have provided the frame of [SuperDuper’s](https://www.dropbox.com/sh/mwxf7n9flr4dj4u/AABjmGjFyI0xNij5mE0cpz5Ga?dl=0) website (Header, Body, Footer) as both a Sketch document and png. Your may use whatever software you are most comfortable with but I recommend Sketch. If you don’t know it, you should learn it (it’s easy) and this is a good opportunity. If you’re stuck check out how things work on some websites you like, take a look at the FTS Base UI Kit for help, or ask for tips from the FTS staff. 
+First, take a look at the Background listed above. I have provided the frame of [SuperDuper’s](https://www.dropbox.com/sh/mwxf7n9flr4dj4u/AABjmGjFyI0xNij5mE0cpz5Ga?dl=0) website (Header, Body, Footer) as both a Sketch document and png. Your may use whatever software you are most comfortable with but I recommend Sketch. If you don’t know it, you should learn it (it’s easy) and this is a good opportunity. If you’re stuck check out how things work on some websites you like, take a look at the FTS Base UI Kit for help, or ask for tips from the FTS staff.
 
 ## Deliverables
 
-1. A full UI kit including each form element. Make sure you’re using the best form element for each type of information. Consider default, hover, active, error and disabled states for each element. Include states for each element that you think are necessary for universal and accessible design. Be prepared to defend your decisions. 
+1. A full UI kit including each form element. Make sure you’re using the best form element for each type of information. Consider default, hover, active, error and disabled states for each element. Include states for each element that you think are necessary for universal and accessible design. Be prepared to defend your decisions.
 
 2. A fully designed page with the form and 1-2 additional pages illustrating different states as a user might encounter them.
 

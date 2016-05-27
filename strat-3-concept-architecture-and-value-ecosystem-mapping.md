@@ -1,12 +1,12 @@
-Domain Analysis
+# Domain Analysis
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-# Challenge introduction
+## Challenge introduction
 
 Analyzing and describing complex systems is a necessary component of UX strategy. A team needs to understand the problem they’re working on, the people and processes it touches, the needs of the business and the needs of the user, the involvement of external stakeholders, relationships with competitors and partners, and anything else that can be thought of that may be unique to the problem at hand. A strategist needs a way of gathering this knowledge, assembling it in a logical order, and conveying it to others.
 
-# Background research
+## Background research
 
 * [Concept Mapping](http://library.ac4d.com/d/AC4D_designlibrary_ConceptMapping.pdf) by John Kolko
 
@@ -16,7 +16,7 @@ Analyzing and describing complex systems is a necessary component of UX strategy
 
 * [User Experience and Business Analysis - where do they crossover?](http://jane.dallaway.com/user-experience-and-business-analysis/) by Jane Dallaway
 
-# Challenge outline
+## Challenge outline
 
 Take a look at the current state of the mobile payments ecosystem. Map out the major players and relationships, technology differences, hardware and software, anything you can think of. Research will uncover a huge variety of complex and interrelated concepts that are at play here. Your goal is to a) show a complete understanding of the space and b) based on key insights derived from your research come up with a deliverable that adequately explains the space to a casual observer.
 
@@ -26,7 +26,7 @@ Take a look at the current state of the mobile payments ecosystem. Map out the m
 
 2. Take what you’ve learned in your research and start applying various exercises to the mobile payments domain. There is no specific structure to be outlined for this. Based on your research into domain analysis and your research into mobile payments you should get a sense of what exercises and tools are useful and begin applying them.
 
-3. As you learn more about the domain different tools and visualizations will suggest themselves based on what you’re trying to determine. Keep track of what you create. I suggest a lot of sketching and/or whiteboard use. Get thoughts out of your head and into the physical world. 
+3. As you learn more about the domain different tools and visualizations will suggest themselves based on what you’re trying to determine. Keep track of what you create. I suggest a lot of sketching and/or whiteboard use. Get thoughts out of your head and into the physical world.
 
 4. Prepare a short 10-minute talk to present what you’ve learned about mobile payments through your analysis. Your slides should not show photos of your sketches. They should show cleaned up visualizations that help a viewer understand the domain and clarify key insights that you developed through your research. Your goal is to create clarity around a large and complex topic area to improve understanding among members of a hypothetical project team.
 

@@ -1,14 +1,14 @@
-Prototyping & Usability Testing
+# Prototyping & Usability Testing
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-# Challenge introduction
+## Challenge introduction
 
-A critical factor in building a desirable, successful product is testing your assumptions on the path to market. However, expending the resources necessary to build a complete product before you test it has the potential to be a dangerous decision. Instead, we prototype and test our most dangerous assumptions as we move towards the market. 
+A critical factor in building a desirable, successful product is testing your assumptions on the path to market. However, expending the resources necessary to build a complete product before you test it has the potential to be a dangerous decision. Instead, we prototype and test our most dangerous assumptions as we move towards the market.
 
-A good prototype isn’t a faithful reproduction of everything you think your product should be. It is the quickest and cheapest thing you can build that will accurately validate or invalidate your hypotheses. By exposing your prototype to users and testing their interactions with it you can make informed decisions before wasting precious resources. 
+A good prototype isn’t a faithful reproduction of everything you think your product should be. It is the quickest and cheapest thing you can build that will accurately validate or invalidate your hypotheses. By exposing your prototype to users and testing their interactions with it you can make informed decisions before wasting precious resources.
 
-# Background research
+## Background research
 
 * [What Sketches (and Prototypes) Are and Are Not [PDF]](http://goo.gl/m88fP) by Bill Buxton
 
@@ -22,7 +22,7 @@ A good prototype isn’t a faithful reproduction of everything you think your pr
 
 * [Rocket Surgery Made Easy](http://www.amazon.com/Rocket-Surgery-Made-Easy--Yourself/dp/0321657292/) by Steve Krug
 
-# Challenge outline
+## Challenge outline
 
 For this challenge we’re going to iterate further on the result of your Bootcamp challenge project. Identify a remaining problem from your updated Bootcamp challenge, preferably based on an unexplored assumption. You will form a hypothesis regarding this assumption, identify the ideal form and medium for an updated prototype that will test this assumption, and run a full-scale usability test complete with video/recording setup and an assistant to take notes. To accomplish this I’d advise pairing up with another person so you can take notes for them during their interviews and vice versa.
 

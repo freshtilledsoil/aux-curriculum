@@ -1,12 +1,12 @@
-Performance Budgeting
+# Performance Budgeting
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-# Challenge introduction
+## Challenge introduction
 
 A reliable, well structured, and enjoyable user interface are the foundation for creating a great website. But what good is a great website if a user has to wait a considerable amount of time for the page to load? A faster website leads to a more satisfied user and can dramatically increase a sites conversion rate.  Performance budgeting provides a metric by which a sites design and functionality can be measured. This measurement allows a design and development team to begin or optimize an existing website to provide the best possible solution to the end user by *designing and developing around a set of budgeted resource constraints.*
 
-# Background research
+## Background research
 
 * [Why Performance Matters, Part 1](http://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/) by Denys Mishunov
 
@@ -28,7 +28,7 @@ A reliable, well structured, and enjoyable user interface are the foundation for
 
 * [Performance Budget Builder](http://bradfrost.com/blog/post/performance-budget-builder/) by Brad Frost
 
-# Challenge outline
+## Challenge outline
 
 Pick an existing website and create a list of the resources currently being utilized on the homepage. How many images? How many JavaScript files? etc. Next, choose 3 - 5 competitor websites and create a performance budget to evaluate your chosen site compared to these competitors. You will then use this performance budget to target areas for improvement and key steps a development team could take to improve the overall performance of the site.
 

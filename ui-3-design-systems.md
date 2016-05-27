@@ -1,22 +1,22 @@
-Design Systems
+# Design Systems
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-# Challenge introduction
+## Challenge introduction
 
 The visual aspect of the work we do is more about creating design systems than it is about creating individual pages that look nice. When we pass a project off to the team that needs to maintain it they will need to grow the project to adapt to new circumstances. A well developed system will make their lives easy. A bunch of pretty templates with no logic will make their lives hell.
 
-# Background research
+## Background research
 
-* [In Search of a Living Design System](https://the-pastry-box-project.net/jina-bolton/2015-March-28) by Jina Bolton 
+* [In Search of a Living Design System](https://the-pastry-box-project.net/jina-bolton/2015-March-28) by Jina Bolton
 
-* [Writing an Interface Style Guide](http://alistapart.com/article/writingainterfacestyleguide) by Jina Bolton 
+* [Writing an Interface Style Guide](http://alistapart.com/article/writingainterfacestyleguide) by Jina Bolton
 
-* [Getting Started With Pattern Libraries](http://alistapart.com/blog/post/getting-started-with-pattern-libraries) by Anna Debenham 
+* [Getting Started With Pattern Libraries](http://alistapart.com/blog/post/getting-started-with-pattern-libraries) by Anna Debenham
 
-* [Creating Style Guides](http://alistapart.com/article/creating-style-guides) by Susan Robertson 
+* [Creating Style Guides](http://alistapart.com/article/creating-style-guides) by Susan Robertson
 
-* [Styleguides.io](http://styleguides.io/) 
+* [Styleguides.io](http://styleguides.io/)
 
 * [StyleTil.es](http://styletil.es/) by Samantha Warren
 
@@ -32,7 +32,7 @@ The visual aspect of the work we do is more about creating design systems than i
 
 * [Design Systems: Building for the Future](https://css-tricks.com/design-systems-building-future/) by Chris Coyier
 
-# Challenge outline
+## Challenge outline
 
 Pick an existing website and catalogue all the components, modules and content of the existing interface (various button needs, form elements, components that must be locked together to function). The manner in which you catalogue and organize them should reinforce the relationships between them.
 

@@ -1,19 +1,15 @@
-Negotiation Exercise
+# Negotiation Exercise
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-<table>
-  <tr>
-    <td>For the person running this exercise:
+## For the person running this exercise:
+
 Pick the same HR rep and Hiring Manager for all exercises. They should be other FTS employees, not apprentices. Each apprentice will get to negotiate with the pair as a fresh game (the previous games don’t affect the following games). These two people can strategize before starting. They will also have info that their counterpart doesn’t have, and they can choose to share this if they wish.
-Send apprentices the background research, and send each party their info as outlined below. But do not send them this doc, and do not let them see the info that belongs to other parties.</td>
-  </tr>
-</table>
+Send apprentices the background research, and send each party their info as outlined below. But do not send them this doc, and do not let them see the info that belongs to other parties.
 
+## Background research
 
-# Background research
-
-* [Negotiating Salary 101: Tactics for Better Compensation](http://womenforhire.com/negotiating_salary_benefits/negotiating_salary_101_tactics_for_better_compensation/) 
+* [Negotiating Salary 101: Tactics for Better Compensation](http://womenforhire.com/negotiating_salary_benefits/negotiating_salary_101_tactics_for_better_compensation/)
 
 * [Achieve the Job Offer You Deserve by Avoiding These 10 Salary Negotiation Mistakes](https://www.quintcareers.com/salary-negotiation-mistakes/) by Randall S. Hansen, Ph.D
 
@@ -23,13 +19,13 @@ Send apprentices the background research, and send each party their info as outl
 
 * [Best Alternative to Negotiated Agreement](http://www.beyondintractability.org/essay/batna)
 
-# Challenge outline
+## Challenge outline
 
-There will be 3 parties in this game: the potential employee, the hiring manager, and the HR rep. Each party has different incentives. Some are known to the other parties, others are kept personal because the individual may believe that keeping the info to themselves gives them an advantage. These facts are structured at the beginning but can be revealed to other parties if the individual believes it will create a better result. 
+There will be 3 parties in this game: the potential employee, the hiring manager, and the HR rep. Each party has different incentives. Some are known to the other parties, others are kept personal because the individual may believe that keeping the info to themselves gives them an advantage. These facts are structured at the beginning but can be revealed to other parties if the individual believes it will create a better result.
 
 ## Rules
 
-* You have 30 minutes to reach an agreement between all 3 parties. 
+* You have 30 minutes to reach an agreement between all 3 parties.
 
 * The potential employee can only talk to the hiring manager. The hiring manager can talk to both HR and the potential employee. HR and the potential employee can not talk to each other.
 
@@ -49,17 +45,17 @@ There will be 3 parties in this game: the potential employee, the hiring manager
 
 * It’s not unheard of for this position to be offered $90k. But it’s rare.
 
-* You have an alternative offer in hand for $85k. But it’s at a company you’re not excited to work for. You’d much rather take this job, if they can pay competitively. 
+* You have an alternative offer in hand for $85k. But it’s at a company you’re not excited to work for. You’d much rather take this job, if they can pay competitively.
 
 ## Hiring Manager
 
-* You have a team of four already, this new hire would be the fifth member of your team. 
+* You have a team of four already, this new hire would be the fifth member of your team.
 
 * The pay range for the members of your current team ranges from $65k to $95k.
 
 * HR has told you that the max cash offer available for the position is $70k. They’ve made more available in the past though, for other candidates with similar experience and ability.
 
-* You’ve interviewed another candidate. They’re not great, but they’re willing to take $65k to start. 
+* You’ve interviewed another candidate. They’re not great, but they’re willing to take $65k to start.
 
 * Additional benefits can be offered without affecting your cash offer.
 

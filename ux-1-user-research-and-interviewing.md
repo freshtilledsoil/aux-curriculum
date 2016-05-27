@@ -1,14 +1,14 @@
-User Research & Interviewing
+# User Research & Interviewing
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-# Challenge introduction
+## Challenge introduction
 
 User research is a vital step in crafting a great user experience. And yet it is often neglected in projects that are otherwise well run. Often a client or internal team believes that they already understand the problems of their audience well enough that they can skip research and move on to the "fun stuff".
 
 Conducting a systematic study into the habits and needs of your users allows you to identify key insights that you might remain oblivious to otherwise. No single interview or piece of data is effective in revealing hidden truths about the problem you’re working on. You must construct a process that is effective in exposing you to the needs and problems you are incapable of anticipating on your own. Effective research is the first step in building something that users want and need.
 
-# Background research
+## Background research
 
 * [Just Enough Research](https://www.dropbox.com/s/op7vjx5sum1arbd/just-enough-research.pdf?dl=0) by Erika Hall
 
@@ -28,7 +28,7 @@ Conducting a systematic study into the habits and needs of your users allows you
 
 * [Uncovering user goals with the Episodic Interview](http://userfocus.co.uk/articles/uncovering-user-goals-with-the-episodic-interview.html) by Dr. David Travis
 
-# Challenge outline
+## Challenge outline
 
 You will be identifying potential users of a 3D sensing camera, the [Structure Sensor](http://structure.io/) from [Occipital](http://occipital.com/). Your job is to learn as much as possible about these people and to create a body of research that the Occipital team can act on. You will all be working together on this challenge to outline an effective research framework and put it to use.
 
@@ -38,7 +38,7 @@ Think of users that would derive value from the Structure Sensor when its functi
 
 1. Start by going over the background research listed above. Discuss as a group and individually with your mentors.
 
-2. Work as a group to brainstorm as many possible users of the product as possible. Specifically, try to identify industries that could use the hardware to reduce the pain inherent to parts of their job. 
+2. Work as a group to brainstorm as many possible users of the product as possible. Specifically, try to identify industries that could use the hardware to reduce the pain inherent to parts of their job.
 
 3. As a group, conduct background research (literature review) into these possible users of the platform and choose at least 3 user types/industries that you believe would benefit the most from a product or service built with this hardware.
 

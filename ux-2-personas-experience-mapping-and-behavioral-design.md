@@ -1,12 +1,12 @@
-Personas, Experience Mapping & Behavior
+# Personas, Experience Mapping & Behavior
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-# Challenge introduction
+## Challenge introduction
 
 User research and usability testing are fantastic ways to understand your users, but how do we spread that understanding across an organization? Personas and experience maps are the solution to helping your clients or other team members understand the behavior of the users you’ve researched and use that as the basis for organizational decision making.
 
-# Background research
+## Background research
 
 * [A Closer Look At Personas: What They Are And How They Work (Part 1)](http://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/) by Shlomo Goltz
 
@@ -30,11 +30,11 @@ User research and usability testing are fantastic ways to understand your users,
 
 * [useronboard.com](http://www.useronboard.com)
 
-# Challenge outline
+## Challenge outline
 
 Based on the work you’ve already done for your Bootcamp challenge divide your audience into a few distinct personas based on observed differences in behavior among the people you’ve interviewed and tested with. The best personas are based on behavioral traits, not on demographic traits.
 
-Once you’ve completed your personas begin the creation of an experience map of the ecosystem around your Bootcamp app that demonstrates the divergence in experience that different persona types may experience. 
+Once you’ve completed your personas begin the creation of an experience map of the ecosystem around your Bootcamp app that demonstrates the divergence in experience that different persona types may experience.
 
 Finally, you’re going to rework the onboarding process and core functionality of your Bootcamp prototype to incorporate what you’ve learned so far. In particular, pay attention to the lessons learned from the Hook Model and focus on creating an experience designed to reinforce use through the creation of habits in your users.
 

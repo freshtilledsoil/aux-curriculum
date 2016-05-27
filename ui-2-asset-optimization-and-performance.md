@@ -1,12 +1,12 @@
-Asset Optimization & Performance
+# Asset Optimization & Performance
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-# Challenge introduction
+## Challenge introduction
 
-Performance is the first aspect of your design that users will encounter. A slow-loading site will lose 75% of it’s potential viewership on mobile devices if it doesn’t show up in less than 5 seconds (and that’s generous; the number goes down steadily as network speed increases). By making performance a primary consideration in your design process, you can increase the likelihood of a successful outcome and help guide the design conversation with the client to achieve a good balance of aesthetics and usability. Loading speed, asset size and ways in which you can optimize the rendering of the design on screen are all critical aspects of design, not just development.  
+Performance is the first aspect of your design that users will encounter. A slow-loading site will lose 75% of it’s potential viewership on mobile devices if it doesn’t show up in less than 5 seconds (and that’s generous; the number goes down steadily as network speed increases). By making performance a primary consideration in your design process, you can increase the likelihood of a successful outcome and help guide the design conversation with the client to achieve a good balance of aesthetics and usability. Loading speed, asset size and ways in which you can optimize the rendering of the design on screen are all critical aspects of design, not just development.
 
-# Background research
+## Background research
 
 * [How to make a performance budget](http://danielmall.com/articles/how-to-make-a-performance-budget/) by Dan Mall
 
@@ -26,13 +26,13 @@ Performance is the first aspect of your design that users will encounter. A slow
 
     * [Why Performance Matters, Part 2](http://www.smashingmagazine.com/2015/11/why-performance-matters-part-2-perception-management/) by Denys Mishunov
 
-# Challenge outline
+## Challenge outline
 
 While there is a lot more to learn about performance as a design consideration and how to improve it, this challenge focuses on 3 aspects in particular that can help inform your design thinking and open your eyes to how the choices made in the design process can ripple through to when (or if!) your design will show up on a user’s screen.
 
 * Review sample page & performance information:
 
-    * What is being loaded? 
+    * What is being loaded?
 
     * When is each asset being loaded? In what order?
 
@@ -46,7 +46,7 @@ While there is a lot more to learn about performance as a design consideration a
 
 * Web fonts: they are simultaneously one of the most important and troublesome design elements on the page, so it’s critical that you use only what you need, and take care to not impede the page loading/drawing process.
 
-    * Are you using all of the fonts being loaded? 
+    * Are you using all of the fonts being loaded?
 
     * Are they being loaded first or can they load in the background?
 

@@ -1,8 +1,8 @@
-Front-End Systems Architecture
+# Front-End Systems Architecture
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-# Challenge introduction
+## Challenge introduction
 
 Front End Architecture is a collection of processes to plan, develop and manage the front end code of a website or application.
 
@@ -10,7 +10,7 @@ A front-end developer's primary audience is the website or application's user, a
 
 A front-end architect's main audience is instead other developers, and the system that a front-end architect creates needs to be easily understood and adaptable to the needs of the developers that will be working within it.
 
-# Background research
+## Background research
 
 * [More than one way to skin a website](https://gist.github.com/scottaohara/b5b58d6d6e8cb63b5b6c) by Scott O’Hara
 
@@ -32,15 +32,17 @@ A front-end architect's main audience is instead other developers, and the syste
 
 * [https://necolas.github.io/normalize.css/](https://necolas.github.io/normalize.css/)
 
-# Challenge outline
+## Challenge outline
 
-You will be building a mini starter kit (based off from the FTS Starter Kit Sketch file and utilizing normalize.css as your base).The key takeaways of building this starter kit yourself is to familiarize you with setting up a front-end architecture and to expose you to decisions you wouldn’t otherwise be faced with, if you jumped into an existing project, or started with a framework like Bootstrap.
+You will be building a mini starter kit (based off from the FTS Starter Kit Sketch file and utilizing normalize.css as your base).
+
+The key takeaways of building this starter kit yourself is to familiarize you with setting up a front-end architecture and to expose you to decisions you wouldn’t otherwise be faced with, if you jumped into an existing project, or started with a framework like Bootstrap.
 
 ## Recommended process
 
 1. Read through the recommended background research above to gain additional insight into the different aspects of constructing a front-end systems architecture.
 
-2. Build out your project file structure. Utilize best practices garnered from your research, but be able to identify, diverge and explain why in instances where those practices may not apply. 
+2. Build out your project file structure. Utilize best practices garnered from your research, but be able to identify, diverge and explain why in instances where those practices may not apply.
 
 3. Create two HTML documents. An index.html to display the marked-up version of the Starter Kit, and a __stub.html file to be used as a quick HTML starter file that should contain only the essentials for creating new HTML pages. (e.g. html, head meta data, empty, or very minimal markup in the <body>)
 
@@ -60,7 +62,7 @@ You will be building a mini starter kit (based off from the FTS Starter Kit Sket
 
 3. A second stub HTML file containing the bare essentials for quickly creating new HTML pages.
 
-4. Include a Readme.md file to outline your file structure and any special notes pertaining to the HTML/CSS/dependencies (normalize.css) included in your starter-kit. 
+4. Include a Readme.md file to outline your file structure and any special notes pertaining to the HTML/CSS/dependencies (normalize.css) included in your starter-kit.
 
 5. *Not required:* JavaScript file(s) that may be useful to your starter kit.
 

@@ -1,8 +1,8 @@
-Progressive Enhancement & Accessibility
+# Progressive Enhancement & Accessibility
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-# Challenge introduction
+## Challenge introduction
 
 Effective front-end development is not about churning out pixel-perfect conversions of a designer's Photoshop files, or helping every stakeholder get their pet feature highlighted on the home page. Rather, a good front-end developer's job is to ensure that the entire team's mission is realized through semantic, performant code that ensures the best user experience across the multitude of devices and access issues inherent to the modern web.
 
@@ -10,7 +10,7 @@ To best meet this challenge, we believe in the philosophy of progressive enhance
 
 Accessibility is a complementary principle that is baked into the idea of progressive enhancement. Simply stated, accessibility means removing barriers to access that may be experienced by people with physical or cognitive disabilities.
 
-# Background research
+## Background research
 
 * [Understanding Progressive Enhancement](http://alistapart.com/article/understandingprogressiveenhancement) by Aaron Gustafson
 
@@ -26,9 +26,9 @@ Accessibility is a complementary principle that is baked into the idea of progre
 
 * [Making Modal Windows Better for Everyone](http://www.smashingmagazine.com/2014/09/making-modal-windows-better-for-everyone/) by Scott O’Hara
 
-# Challenge outline
+## Challenge outline
 
-The challenge is to take a static image of a form that has already been designed, to develop a front-end system that accommodates the design as demonstrated in the example, and then to develop that form using your system. 
+The challenge is to take a static image of a form that has already been designed, to develop a front-end system that accommodates the design as demonstrated in the example, and then to develop that form using your system.
 
 Your work must follow the principles of progressive enhancement and accessibility. You must use proper semantic markup and test your form with the VoiceOver functionality built into OS X to verify that it is accessible to a user with visual impairments. The form must display in a sensible fashion even without CSS enabled, and it must be usable without JavaScript. Browsers that are capable of using HTML5 form enhancements must use those instead of JavaScript. Browsers that do not have advanced functionality must load in JavaScript that handles those problems.
 

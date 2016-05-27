@@ -1,12 +1,12 @@
-Business Model Canvases
+# Business Model Canvases
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-# Challenge introduction
+## Challenge introduction
 
 Much like any complicated topic, being able to understand and describe your business clearly comes down to having the right tools for comparing all the parts of it and describing how they work together. The canvases you’ll study in this lesson will allow you to create a clear model of a business and give you the language necessary to explain it in a comprehensible and quick fashion to outsiders. It will help you discover misalignments and create alignment between sections.
 
-# Background research
+## Background research
 
 * [Start with Why: Creating a value proposition with the Golden Circle model](http://www.smartinsights.com/digital-marketing-strategy/online-value-proposition/start-with-why-creating-a-value-proposition-with-the-golden-circle-model/) by Dave Chaffey
 
@@ -24,7 +24,7 @@ Much like any complicated topic, being able to understand and describe your busi
 
 * [The Value Proposition Canvas](http://www.expressiveproductdesign.com/value-proposition-canvas/) by Fred Voorhorst
 
-# Challenge outline
+## Challenge outline
 
 You’ll be researching various canvases for creating and understanding business models and choosing the appropriate ones to apply to a business you’re already familiar with.
 
