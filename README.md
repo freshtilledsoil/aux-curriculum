@@ -1,6 +1,6 @@
 # AUX Curriculum
 
-This repos contains the current curriculum for AUX, our Apprenticeship in User Experience. All content is available under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+This repo contains the current curriculum for AUX, our Apprenticeship in User Experience. All content is available under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ## UX major challenges
 
