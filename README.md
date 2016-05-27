@@ -24,7 +24,7 @@ This repos contains the current curriculum for AUX, our Apprenticeship in User E
 
 1. [Business model/Lean/Value proposition canvas](strat-1-business-model-lean-value-proposition-canvas.md)
 2. [Product road-mapping](strat-2-product-road-mapping.md)
-3. [Concept architecture & value ecosystem mapping](strat-3-concept-architecture-and-value-ecosystem-mapping.md)
+3. [Domain analysis](strat-3-domain-analysis.md)
 
 ## Workshops & mini-challenges
 
