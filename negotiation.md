@@ -67,7 +67,7 @@ There will be 3 parties in this game: the potential employee, the hiring manager
 
 * You get a 25% bonus on the amount under budget this team comes in for the year. The hiring manager does not know this. You told the hiring manager that the max cash available is $70k.
 
-# Things to determine
+## Things to determine
 
 * What is the pie? You should both be cooperating to mutual benefit, to maximize payoff for both parties, instead of looking at it as a win-lose game.
 
@@ -75,7 +75,7 @@ There will be 3 parties in this game: the potential employee, the hiring manager
 
 * What is your zone of agreement? Within what range can you afford to take an offer, is the offer in that range, and is it better than your best alternative?
 
-# Things to remember
+## Things to remember
 
 * You are trying to reach an agreement that is beneficial to all parties.
 
@@ -85,7 +85,7 @@ There will be 3 parties in this game: the potential employee, the hiring manager
 
 * Ultimatums rarely go well for anyone. You don’t want to work for someone who gives ultimatums, and they don’t want to hire someone who gives ultimatums.
 
-# After the exercise
+## After the exercise
 
 * Apprentices should meet with each other and the AUX lead to discuss their results and how they got there. This should be about 30 minutes.
 
