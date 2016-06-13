@@ -58,7 +58,9 @@ Think of users that would derive value from the Structure Sensor when its functi
 
 * The final user type/industry you selected and your recommendations for next steps in exploring a problem you identified in your interviews/research.
 
-* A framework for conducting a research process and an explanation of why you’ve made An outline of the most important things learned from the process about the skills of user research and interviewing.
+* A framework for conducting a research process and an explanation of why you’ve designed the framework this way.
+
+* An outline of the most important things learned from the process about the skills of user research and interviewing.
 
 ## Timeline
 
