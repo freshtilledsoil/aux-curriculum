@@ -28,7 +28,7 @@ Understanding how to design for all people is essential for any designer. Everyo
 
 ## Challenge outline
 
-Design a registration form for SuperDuper Corp’s upcoming event keeping the principles of universal and accessibly design in mind. Also provide the option to register for SuperDuper.com by creating a username and password. The form must include:
+Design a registration form for SuperDuper Corp’s upcoming event keeping the principles of universal and accessible design in mind. Also provide the option to register for SuperDuper.com by creating a username and password. The form must include:
 
 ### 1. Introductory text:
 
@@ -70,7 +70,7 @@ Design a registration form for SuperDuper Corp’s upcoming event keeping the pr
 
 ### 3. A button to submit the information
 
-Also, SuperDuper wants to make sure this form fits in with the look and feel of their site in addition to being universal and accessibly.
+Also, SuperDuper wants to make sure this form fits in with the look and feel of their site in addition to being universal and accessible.
 
 ## Recommended process
 
