@@ -10,7 +10,7 @@ Conducting a systematic study into the habits and needs of your users allows you
 
 ## Background research
 
-* [Just Enough Research](https://www.dropbox.com/s/op7vjx5sum1arbd/just-enough-research.pdf?dl=0) by Erika Hall
+* [Just Enough Research](https://abookapart.com/products/just-enough-research) by Erika Hall
 
 * [The Why, How and What of User Research, Part 1](http://www.multunus.com/blog/2014/09/why-how-and-what-of-ux-research-part-1/) by Manish C
 
